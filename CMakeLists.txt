@@ -3,4 +3,4 @@ project(111)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(111 main.cpp classes/Vertex.cpp classes/Vertex.h classes/Graph.cpp classes/Graph.h)
+add_executable(111 main.cpp classes/Vertex.cpp classes/Vertex.h classes/Graph.cpp classes/Graph.h classes/Edge.cpp classes/Edge.h)

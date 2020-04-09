@@ -11,7 +11,32 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="724409d4-d59d-4fb5-aeb9-ea4edbd20ecb" name="Default" comment="" />
+    <list default="true" id="724409d4-d59d-4fb5-aeb9-ea4edbd20ecb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Edge.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Vertex.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Vertex.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Vertex.h" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Vertex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/111.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/111.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/111.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/111.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/111.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +51,18 @@
       <find>x</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aIyIvbdK5DW9uDuajuddy5nAoR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
@@ -79,7 +109,7 @@
       <workItem from="1585163003197" duration="868000" />
       <workItem from="1585577070291" duration="1597000" />
       <workItem from="1586436888379" duration="83000" />
-      <workItem from="1586437335931" duration="4398000" />
+      <workItem from="1586437335931" duration="13667000" />
     </task>
     <servers />
   </component>
@@ -91,26 +121,50 @@
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="94" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.1024@0.0.1280.1024" timestamp="1586440580083" />
+    <state x="410" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586451191230">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="410" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.1024@0.0.1280.1024" timestamp="1586451191230" />
+    <state x="1081" y="291" key="#xdebugger.XInspectDialog" timestamp="1586447121417">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1081" y="291" key="#xdebugger.XInspectDialog/0.0.1280.1024@0.0.1280.1024" timestamp="1586447121417" />
     <state x="223" y="460" key="FileChooserDialogImpl" timestamp="1586437986195">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="223" y="460" key="FileChooserDialogImpl/0.0.1280.1024@0.0.1280.1024" timestamp="1586437986195" />
-    <state width="1237" height="275" key="GridCell.Tab.0.bottom" timestamp="1586441761418">
+    <state width="1237" height="283" key="GridCell.Tab.0.bottom" timestamp="1586451639673">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state width="1237" height="275" key="GridCell.Tab.0.bottom/0.0.1280.1024@0.0.1280.1024" timestamp="1586441761418" />
-    <state width="1237" height="275" key="GridCell.Tab.0.center" timestamp="1586441761418">
+    <state width="1237" height="283" key="GridCell.Tab.0.bottom/0.0.1280.1024@0.0.1280.1024" timestamp="1586451639673" />
+    <state width="1237" height="283" key="GridCell.Tab.0.center" timestamp="1586451639673">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state width="1237" height="275" key="GridCell.Tab.0.center/0.0.1280.1024@0.0.1280.1024" timestamp="1586441761418" />
-    <state width="1237" height="275" key="GridCell.Tab.0.left" timestamp="1586441761418">
+    <state width="1237" height="283" key="GridCell.Tab.0.center/0.0.1280.1024@0.0.1280.1024" timestamp="1586451639673" />
+    <state width="1237" height="283" key="GridCell.Tab.0.left" timestamp="1586451639673">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state width="1237" height="275" key="GridCell.Tab.0.left/0.0.1280.1024@0.0.1280.1024" timestamp="1586441761418" />
-    <state width="1237" height="275" key="GridCell.Tab.0.right" timestamp="1586441761418">
+    <state width="1237" height="283" key="GridCell.Tab.0.left/0.0.1280.1024@0.0.1280.1024" timestamp="1586451639673" />
+    <state width="1237" height="283" key="GridCell.Tab.0.right" timestamp="1586451639673">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state width="1237" height="275" key="GridCell.Tab.0.right/0.0.1280.1024@0.0.1280.1024" timestamp="1586441761418" />
+    <state width="1237" height="283" key="GridCell.Tab.0.right/0.0.1280.1024@0.0.1280.1024" timestamp="1586451639673" />
+    <state width="1237" height="340" key="GridCell.Tab.1.bottom" timestamp="1586449341461">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="340" key="GridCell.Tab.1.bottom/0.0.1280.1024@0.0.1280.1024" timestamp="1586449341461" />
+    <state width="1237" height="340" key="GridCell.Tab.1.center" timestamp="1586449341461">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="340" key="GridCell.Tab.1.center/0.0.1280.1024@0.0.1280.1024" timestamp="1586449341461" />
+    <state width="1237" height="340" key="GridCell.Tab.1.left" timestamp="1586449341461">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="340" key="GridCell.Tab.1.left/0.0.1280.1024@0.0.1280.1024" timestamp="1586449341461" />
+    <state width="1237" height="340" key="GridCell.Tab.1.right" timestamp="1586449341461">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="340" key="GridCell.Tab.1.right/0.0.1280.1024@0.0.1280.1024" timestamp="1586449341461" />
     <state x="96" y="181" key="SettingsEditor" timestamp="1586437990112">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
@@ -120,18 +174,11 @@
     </state>
     <state x="335" y="335" key="com.intellij.ide.util.TipDialog/0.0.1280.1024@0.0.1280.1024" timestamp="1586437335506" />
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>b == 0 &amp;&amp; a == 0 &amp;&amp; depth == 3</expression-string>
-        <language-id>ObjectiveC</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>c == 100</expression-string>
-        <language-id>ObjectiveC</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="g-&gt;vertexes[0]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
