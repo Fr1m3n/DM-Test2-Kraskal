@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Roman/Desktop/111/classes/Edge.cpp" "C:/Users/Roman/Desktop/111/cmake-build-debug/CMakeFiles/111.dir/classes/Edge.cpp.obj"
   "C:/Users/Roman/Desktop/111/classes/Graph.cpp" "C:/Users/Roman/Desktop/111/cmake-build-debug/CMakeFiles/111.dir/classes/Graph.cpp.obj"
   "C:/Users/Roman/Desktop/111/classes/Vertex.cpp" "C:/Users/Roman/Desktop/111/cmake-build-debug/CMakeFiles/111.dir/classes/Vertex.cpp.obj"
   "C:/Users/Roman/Desktop/111/main.cpp" "C:/Users/Roman/Desktop/111/cmake-build-debug/CMakeFiles/111.dir/main.cpp.obj"

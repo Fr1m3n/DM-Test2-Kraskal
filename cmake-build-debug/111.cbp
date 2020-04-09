@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Roman/Desktop/111/classes/Edge.cpp">
+			<Option target="111"/>
+		</Unit>
+		<Unit filename="C:/Users/Roman/Desktop/111/classes/Edge.h">
+			<Option target="111"/>
+		</Unit>
 		<Unit filename="C:/Users/Roman/Desktop/111/classes/Graph.cpp">
 			<Option target="111"/>
 		</Unit>

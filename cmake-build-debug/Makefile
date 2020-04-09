@@ -122,6 +122,33 @@ depend:
 	$(MAKE) -f CMakeFiles\111.dir\build.make CMakeFiles/111.dir/build
 .PHONY : 111/fast
 
+classes/Edge.obj: classes/Edge.cpp.obj
+
+.PHONY : classes/Edge.obj
+
+# target to build an object file
+classes/Edge.cpp.obj:
+	$(MAKE) -f CMakeFiles\111.dir\build.make CMakeFiles/111.dir/classes/Edge.cpp.obj
+.PHONY : classes/Edge.cpp.obj
+
+classes/Edge.i: classes/Edge.cpp.i
+
+.PHONY : classes/Edge.i
+
+# target to preprocess a source file
+classes/Edge.cpp.i:
+	$(MAKE) -f CMakeFiles\111.dir\build.make CMakeFiles/111.dir/classes/Edge.cpp.i
+.PHONY : classes/Edge.cpp.i
+
+classes/Edge.s: classes/Edge.cpp.s
+
+.PHONY : classes/Edge.s
+
+# target to generate assembly for a file
+classes/Edge.cpp.s:
+	$(MAKE) -f CMakeFiles\111.dir\build.make CMakeFiles/111.dir/classes/Edge.cpp.s
+.PHONY : classes/Edge.cpp.s
+
 classes/Graph.obj: classes/Graph.cpp.obj
 
 .PHONY : classes/Graph.obj
@@ -212,6 +239,9 @@ help:
 	@echo ... 111
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... classes/Edge.obj
+	@echo ... classes/Edge.i
+	@echo ... classes/Edge.s
 	@echo ... classes/Graph.obj
 	@echo ... classes/Graph.i
 	@echo ... classes/Graph.s
