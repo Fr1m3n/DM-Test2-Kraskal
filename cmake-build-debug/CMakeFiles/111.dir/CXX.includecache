@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Roman/Desktop/111/classes/Graph.h
+Vertex.h
+C:/Users/Roman/Desktop/111/classes/Vertex.h
+vector
+-
+
+C:/Users/Roman/Desktop/111/classes/Vertex.h
+Graph.h
+C:/Users/Roman/Desktop/111/classes/Graph.h
+
+C:/Users/Roman/Desktop/111/main.cpp
+iostream
+-
+set
+-
+vector
+-
+classes/Vertex.h
+C:/Users/Roman/Desktop/111/classes/Vertex.h
+classes/Graph.h
+C:/Users/Roman/Desktop/111/classes/Graph.h
+
